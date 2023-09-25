@@ -1,9 +1,9 @@
 import React from 'react';
 
-import Home from './Home'; // Corrected import paths
-import About from './About'; // Corrected import paths
-import Contact from './Contact'; // Corrected import paths
-import Item from './Item'; // Corrected import paths
+import Home from './components/Home'; // Corrected import paths
+import About from './components/About'; // Corrected import paths
+import Contact from './components/Contact'; // Corrected import paths
+import Item from './components/Item'; // Corrected import paths
 
 import {
   BrowserRouter as Router,
